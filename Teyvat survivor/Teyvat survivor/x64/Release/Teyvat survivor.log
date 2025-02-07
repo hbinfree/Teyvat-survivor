@@ -1,0 +1,14 @@
+﻿  Altas.cpp
+  Animation.cpp
+  Bullet.cpp
+  Button.cpp
+  Enemy.cpp
+  main.cpp
+  Player.cpp
+  QuitGameButton.cpp
+  StartGameButton.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 229 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Teyvat survivor.vcxproj -> I:\Demo\Teyvat survivor\Teyvat survivor\x64\Release\Teyvat survivor.exe
